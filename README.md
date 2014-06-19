@@ -4,7 +4,7 @@ tamagotchi_clojure
 
 A basic example of a command-line Tamagotchi game, in Clojure!
 
-Completely functional - doesn't mantain any state!
+Completely functional - doesn't mantain any state (besides the "state" in the functions itself, of course).
 
 
 Start:
