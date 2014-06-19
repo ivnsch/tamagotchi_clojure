@@ -53,7 +53,7 @@
 
 (defn feed-and-print [tamagotchi]
   (let [tamagotchi (feed tamagotchi)]
-    (println (str "Feed!, updated health: " (:health tamagotchi)))
+    (println (str "Fed!, updated health: " (:health tamagotchi)))
     tamagotchi))
 
 (defn update-tamagotchi [tamagotchi]
