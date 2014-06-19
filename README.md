@@ -2,7 +2,7 @@ tamagotchi_clojure
 ==================
 
 
-A basic command-line example of a Tamagotchi (-like) game, in Clojure!
+A basic example of a command-line Tamagotchi game, in Clojure!
 
 Completely functional - doesn't mantain any state!
 
